@@ -1,19 +1,31 @@
-<div align="center">
+# Olá, eu sou o José Augusto! 👋 
 
-<!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0B0E14&customColorList=1&height=220&section=header&text=Jos%C3%A9%20Augusto&fontSize=50&fontColor=2088FF&animation=fadeIn&fontAlignY=38" width="100%" alt="Header Banner" />
+> *"May the Code be with you."* 🌌
 
-<!-- TYPING SVG ANIMATION -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2088FF&center=true&vcenter=true&width=700&lines=Dev+J%C3%BAnior+%7C+Backend+Python+%26+Cybersecurity;Que+a+For%C3%A7a+do+C%C3%B3digo+esteja+com+voc%C3%AA!;Evoluindo+sistemas...+como+dev.+ser!;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o" alt="Typing SVG" />
-</a>
+🎓 **Estudante de Ciência da Computação** na Unigranrio | Afya
+💼 **Atuação:** Transição de carreira (Administrativo/Contábil ➔ Desenvolvedor Júnior)
+🐍 **Foco:** Python, Git/GitHub, Cibersegurança e Robótica
 
-</div>
+---
 
-<br />
+### 🚀 Sobre Mim & A Força do Código
 
-```text
-       ___  __   ___    __   ____  ____  ____  ____ 
-      / __)/  \ / __)  / _\ / ___)(  __)(  __)(  _ \
-     ( (__(  O )( (__  /    \\___ \ ) _)  ) _)  )   /
-      \___)\__/  \___)\_/\_/(____/(____)(____)(_\_\)
+- 🪐 Navegando pelo ecossistema de desenvolvimento, construindo sistemas fortes e bem estruturados... **como dev. ser!**
+- 🛡️ Explorando o lado seguro da Força através de **Cibersegurança** e **Robótica**.
+- 🧹 Transformando processos manuais em automações limpas em **Python**.
+
+---
+
+### 🛠️ Tecnologias & Sabres de Luz
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+### 📊 Radar da Galáxia (Estatísticas)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Josestadler2718&show_icons=true&theme=radial)
+
+---
+
+📫 **Sintonize na frequência:** [LinkedIn](https://www.linkedin.com) | joseaugustostadler@outlook.com
