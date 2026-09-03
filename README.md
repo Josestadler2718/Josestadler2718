@@ -8,7 +8,7 @@
 
 ### 💻 Sobre Mim
 
-- ⚙️ Desenvolvendo automações e soluções backend organizadas... **como dev. ser!**
+- ⚙️ Desenvolvendo automações e soluções backend organizadas.
 - 🛡️ Estudando fundamentos de **Cibersegurança** e **Robótica**.
 - 🧹 Otimizando rotinas manuais através de scripts em **Python**.
 
