@@ -12,7 +12,7 @@ Trabalho num escritório de contabilidade, onde entrei como estagiário e fui ef
 |---|---|---|
 | **[Burger Tech](https://github.com/Josestadler2718/burger-tech-principal)** | Sistema de pedidos para hamburgueria: o cliente pede pelo site ou pela mesa, escaneando um QR code, e a equipe acompanha tudo em tempo real num painel. | FastAPI · SQLite · React · TypeScript · pytest |
 | **[Science Burger – Backend](https://github.com/Josestadler2718/science-burger-backend)** | Meu primeiro projeto em grupo na faculdade. Fiquei com a API de cadastro e login dos clientes, com senhas protegidas. | FastAPI · MySQL · bcrypt |
-| **Sistema de venda para lojas (PDV)** | Em desenvolvimento, com código privado. Um ponto de venda com login, API própria e que funciona offline. | Python · PostgreSQL |
+| **[Sistema de venda para lojas (PDV)](https://github.com/Josestadler2718/sistema-de-vendas-pdv)** | Em desenvolvimento, com código privado. Um ponto de venda com login, API própria e que funciona offline. | Python · PostgreSQL |
 
 ## Ferramentas do meu dia a dia
 
